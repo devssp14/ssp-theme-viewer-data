@@ -3,156 +3,156 @@
         "packageName" : "com.sspwatchfacestudio.magwheel",
         "title" : "Mag Wheel",
         "priceString" : "free",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_magwheel.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_magwheel.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.retrobold",
         "title" : "Retro Bold",
         "priceString" : "free",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_retrobold.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_retrobold.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.chronolite",
         "title" : "Chrono Lite",
         "priceString" : "free",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_chronolite.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_chronolite.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.cleargrey",
         "title" : "Clear Grey",
         "priceString" : "free",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_cleargrey.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_cleargrey.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.boldanalog",
         "title" : "Bold Analog",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bold_analog.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bold_analog.png"
     },
     {
         "packageName" : "com.watchfacestudio.BoldChrono",
         "title" : "Bold Chrono",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bold_chrono.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bold_chrono.png"
     },
 
     {
         "packageName" : "com.sspwatchfacestudio.biganalog",
         "title" : "Big Analog",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_biganalog.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_biganalog.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.keydial",
         "title" : "Key Dial",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_keydial.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_keydial.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.magwheelPro",
         "title" : "Mag Wheel Pro",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_magwheelpro.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_magwheelpro.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.gearanalog",
         "title" : "Gear Analog",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_gearanalog.png.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_gearanalog.png.png"
     },
     {
         "packageName" : "com.watchfacestudio.boldhour",
         "title" : "Bold Hour",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_boldhour.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_boldhour.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.dualtone",
         "title" : "Dual Tone",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_dualtone.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_dualtone.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.shadow",
         "title" : "Shadow",
         "priceString" : "$0.49",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_shadow.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_shadow.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.sspclean",
         "title" : "SSP Clean",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_sspclean.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_sspclean.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.skewed",
         "title" : "Skewed",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_skewed.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_skewed.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.colossal",
         "title" : "Colossal",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_colossal.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_colossal.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.infinity",
         "title" : "Infinity",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_infinity.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_infinity.png"
     },
 
     {
         "packageName" : "com.sspwatchfacestudio.cleardigital",
         "title" : "Clear Digital",
         "priceString" : "$0.49",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_cleardigital.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_cleardigital.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.blackdial",
         "title" : "Black Dial",
         "priceString" : "$0.49",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_blackdial.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_blackdial.png"
     },
 
     {
         "packageName" : "com.watchfacestudio.bigdial",
         "title" : "Big Dial",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bigdial.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bigdial.png"
     },
 
     {
         "packageName" : "com.sspwatchfacestudio.retroflip",
         "title" : "Retro flip",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_retroflip.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_retroflip.png"
     },
     {
         "packageName" : "com.sspwatchfacestudio.aesthetic",
         "title" : "Aesthetic",
         "priceString" : "$0.99",
-        "imageName" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_aesthetic.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_aesthetic.png"
     },
 
     {
         "packageName": "com.sspwatchfacestudio.swirl",
         "title": "Swirl",
         "priceString": "$0.49",
-        "imageName": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_swirl.png"
+        "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_swirl.png"
     },
     {
         "packageName": "com.sspwatchfacestudio.gearsdigital",
         "title": "Gear Digital",
         "priceString": "$0.49",
-        "imageName": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_geardigital.png"
+        "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_geardigital.png"
     },
     {
         "packageName": "ccom.sspwatchfacestudio.coloredbold",
         "title": "Colored Bold",
         "priceString": "$0.49",
-        "imageName": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_coloredbold.png"
+        "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_coloredbold.png"
     }
 
 ]
