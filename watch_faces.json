@@ -27,7 +27,7 @@
         "packageName" : "com.sspwatchfacestudio.boldanalog",
         "title" : "Bold Analog",
         "priceString" : "$0.99",
-        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bold_analog.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_bold_analog.jpg"
     },
     {
         "packageName" : "com.watchfacestudio.BoldChrono",
@@ -58,7 +58,7 @@
         "packageName" : "com.sspwatchfacestudio.gearanalog",
         "title" : "Gear Analog",
         "priceString" : "$0.99",
-        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_gearanalog.png.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_gearanalog.png"
     },
     {
         "packageName" : "com.watchfacestudio.boldhour",
@@ -107,7 +107,7 @@
         "packageName" : "com.sspwatchfacestudio.cleardigital",
         "title" : "Clear Digital",
         "priceString" : "$0.49",
-        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_cleardigital.png"
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_cleardigital.jpg"
     },
     {
         "packageName" : "com.sspwatchfacestudio.blackdial",
