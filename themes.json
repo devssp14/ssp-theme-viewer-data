@@ -3,6 +3,7 @@
   { "title" : "[SSP] Green Wave.jpg",
     "imageUrl":"https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/theme_greenwave.jpg",
     "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GreenWave"
+    "isNew": true
   },
   { "title" : "[SSP] Flat Pink.jpg",
     "imageUrl":"https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/theme_flat_pink.jpg",
