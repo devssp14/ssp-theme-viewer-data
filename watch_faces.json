@@ -156,3 +156,17 @@
     }
 
 ]
+
+
+```[cite: 15]
+
+### Step 2: Add Coil to Your Dependencies
+**Coil** is a modern, fast, Kotlin-first image loading library that makes loading images from URLs into ImageViews extremely simple. 
+
+Add the Coil dependency to your app-level `build.gradle.kts`:
+
+```kotlin
+dependencies {
+    // Coil for loading images from URLs
+    implementation("io.coil-kt:coil:2.6.0")
+}
