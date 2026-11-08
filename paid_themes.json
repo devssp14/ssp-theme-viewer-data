@@ -1,1646 +1,1646 @@
 [
 { 
 "title": "[SSP] Black Asphalt",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackAsphalt",
 "isNew": true
 },
 { 
 "title": "[SSP] Red Wood",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedWood"
 },
 { 
 "title": "[SSP] Cubes Effect 3D",	
-"price":"$0.60",	
+"priceString":"$0.60",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.ssp.themes.CubesEffect3D"
 },
 { 
 "title": "[SSP] Grunge Metal 3D",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.GrungeMetal"
 },
 { 
 "title": "[SSP] Christmas 2020",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Christmas20"
 },
 { 
 "title": "[SSP] Autumn",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Autumn"
 },
 { 
 "title": "[SSP] Black Curve",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.ssp.themes.BlackCurve"
 },
 { 
 "title": "[SSP] Brushed Sheets",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BrushedSlides"
 },
 { 
 "title": "[SSP] Blue Carbon Hex",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueCarbonHex"
 },
 { 
 "title": "[SSP] Copper Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.CopperBlack"
 },
 { 
 "title": "[SSP] Gold Curve",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.goldcurve"
 },
 { 
 "title": "[SSP] Dark Light Stairs",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkLightStairs"
 },
 { 
 "title": "[SSP] The Blue Spot",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.TheBlueSpot"
 },
 { 
 "title": "[SSP] Rich Black",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.RichBlack"
 },
 { 
 "title": "[SSP] Dark Room 3D",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkRoom3D"
 },
 { 
 "title": "[SSP] Blue Neon 3D",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlueNeon3D"
 },
 { 
 "title": "[SSP] Red Carbon Hex",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedCarbonHex"
 },
 { 
 "title": "[SSP] Premium Ruby",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.PremiumRuby"
 },
 { 
 "title": "[SSP] Cyan Shade",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.CyanShade"
 },
 { 
 "title": "[SSP] Rings",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Rings"
 },
 { 
 "title": "[SSP] One Gear",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.onegear"
 },
 { 
 "title": "[SSP] White Ultra",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.WhiteUltra"
 },
 { 
 "title": "[SSP] Pitch Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.PitchBlack"
 },
 { 
 "title": "[SSP] Blue Craft 3D",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlueCraft3D"
 },
 { 
 "title": "[SSP] Black Craft 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlackCraft3D"
 },
 { 
 "title": "[SSP] Red Light 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedLight3D"
 },
 { 
 "title": "[SSP] Black Gold Edge",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackGoldEdge"
 },
 { 
 "title": "[SSP] Dark Slides",	
-"price":"$1.30",	
+"priceString":"$1.30",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkSlides"
 },
 { 
 "title": "[SSP] Carbon Fiber",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.CarbonFiber"
 },
 { 
 "title": "[SSP] The Metal Black",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.TheMetalBlack"
 },
 { 
 "title": "[SSP] Black Glow",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlackGlow"
 },
 { 
 "title": "[SSP] Hexa Black Metal",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.HexaBlackMetal"
 },
 { 
 "title": "[SSP] Urban City",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.UrbanCity"
 },
 { 
 "title": "[SSP] Gold Line",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GoldLine"
 },
 { 
 "title": "[SSP] Muscle Car",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesign.themes.MuscleCar"
 },
 { 
 "title": "[SSP] Neon Blue",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.NEONBlue"
 },
 { 
 "title": "[SSP] Moon Light",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.MoonLight"
 },
 { 
 "title": "[SSP] Hot Air Balloon",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.HotAirBalloon"
 },
 { 
 "title": "[SSP] Raging Lion",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Raginglion"
 },
 { 
 "title": "[SSP] Alien",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ALIEN"
 },
 { 
 "title": "[SSP] Moon Light",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.MoonLight"
 },
 { 
 "title": "[SSP] Gradient Blue",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GradientBlue"
 },
 { 
 "title": "[SSP] Wood and Metal",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.SSP.themes.WoodandMetal"
 },
 { 
 "title": "[SSP] Black Panther",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackPanther"
 },
 { 
 "title": "[SSP] Dark Glass",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.darkglass"
 },
 { 
 "title": "[SSP] - Ruby N Gold",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.rubyngold"
 },
 { 
 "title": "[SSP] Perfect Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PerfectBlack"
 },
 { 
 "title": "[SSP] Half Moon",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.HalfMoon"
 },
 { 
 "title": "[SSP] Germany Style",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.GermanyStyle"
 },
 { 
 "title": "[SSP] Purple Spot 3D",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.PurpleSpot3D"
 },
 { 
 "title": "[SSP] Window Light",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.WindowLight"
 },
 { 
 "title": "[SSP] Red Lines",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedLines"
 },
 { 
 "title": "[SSP] Aesthetic Aqua",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.AestheticAqua"
 },
 { 
 "title": "[SSP] White Green",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.WhiteGreen"
 },
 { 
 "title": "[SSP] Black Metal",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.BlackMetal"
 },
 { 
 "title": "[SSP] Premium Black",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.PremiumBlack"
 },
 { 
 "title": "[SSP] Black Chrome 3D",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlackChrome3D"
 },
 { 
 "title": "[SSP] USA Style",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.USA"
 },
 { 
 "title": "[SSP] Realistic",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Realistic"
 },
 { 
 "title": "[SSP] Ultra Black",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.UltraBlack"
 },
 { 
 "title": "[SSP] Yellow Mag",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.YellowMag"
 },
 { 
 "title": "[SSP] Retro Type",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.RetroType"
 },
 { 
 "title": "[SSP] Blue Line",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueLine"
 },
 { 
 "title": "[SSP] Liquid Glass",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.LiquidGlass"
 },
 { 
 "title": "[SSP] Detailed White",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.DetailedWhite"
 },
 { 
 "title": "[SSP] Peaceful Night",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.PeacefulNight"
 },
 { 
 "title": "[SSP] Classic Vintage",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.sspdesign.theme.ClassicVintage"
 },
 { 
 "title": "[SSP] Pure Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PureBlack"
 },
 { 
 "title": "[SSP] Pure White",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PureWhite"
 },
 { 
 "title": "[SSP] France Style",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.FranceStyle"
 },
 { 
 "title": "[SSP] Office Black",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.OfficeBlack"
 },
 { 
 "title": "[SSP] Matte Black",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.MatteBlack"
 },
 { 
 "title": "[SSP] Metal Shade",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.MetalShade"
 },
 { 
 "title": "[SSP] Punched Black",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PunchedBlack"
 },
 { 
 "title": "[SSP] Black N Chrome",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlackNChrome"
 },
 { 
 "title": "[SSP] Aesthetic Black",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.aestheticblack"
 },
 { 
 "title": "[SSP] Glow Wood",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.glowwood"
 },
 { 
 "title": "[SSP] Aesthetic Blue",	
-"price":"$1.50",	
+"priceString":"$1.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.aestheticblue"
 },
 { 
 "title": "[SSP] S26 Ultra",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.S26Ultra"
 },
 { 
 "title": "[SSP] Blended Gold",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlendedGold"
 },
 { 
 "title": "[SSP] Pure Chrome",	
-"price":"$1.50",	
+"priceString":"$1.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.purechrome"
 },
 { 
 "title": "[SSP] Galaxy Z",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GalaxyZ"
 },
 { 
 "title": "[SSP] Galaxy A",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GalaxyA"
 },
 { 
 "title": "[SSP] Game On",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GameOn"
 },
 { 
 "title": "[SSP] Music",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.theme.Music"
 },
 { 
 "title": "[SSP] Zodiac Leo",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Leo"
 },
 { 
 "title": "[SSP] Zodiac Pisces",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Pisces"
 },
 { 
 "title": "[SSP] Zodiac Cancer",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Cancer"
 },
 { 
 "title": "[SSP] Zodiac Aquarius",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Aquarius"
 },
 { 
 "title": "[SSP] Zodiac Gemini",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Gemini"
 },
 { 
 "title": "[SSP] Zodiac Libra",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Libra"
 },
 { 
 "title": "[SSP] Zodiac Taurus",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Taurus"
 },
 { 
 "title": "[SSP] Zodiac Capricorn",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Capricorn"
 },
 { 
 "title": "[SSP] Smooth White",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.SmoothWhite"
 },
 { 
 "title": "[SSP] Dark Red Edge",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkRedEdge"
 },
 { 
 "title": "[SSP] Galaxy Steel",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GalaxySteel"
 },
 { 
 "title": "[SSP] Hare Krishna",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.HareKrishna"
 },
 { 
 "title": "[SSP] Carbon Blue",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.CarbonBlue"
 },
 { 
 "title": "[SSP] Darked",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.Darked"
 },
 { 
 "title": "[SSP] The Bull",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.TheBull"
 },
 { 
 "title": "[SSP] The Lion",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.TheLion"
 },
 { 
 "title": "[SSP] Elegant Blue",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ElegantBlue"
 },
 { 
 "title": "[SSP] Black Light 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlackLight3D"
 },
 { 
 "title": "[SSP] White UI",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.WhiteUI"
 },
 { 
 "title": "[SSP] Zodiac Virgo",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Virgo"
 },
 { 
 "title": "[SSP] Rose Pink",	
-"price":"$0.50",	
+"priceString":"$0.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.RosePink"
 },
 { 
 "title": "[SSP] Metal Polygons",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.MetalPolygon"
 },
 { 
 "title": "[SSP] Red Lining",	
-"price":"$0.60",	
+"priceString":"$0.60",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.RedLining"
 },
 { 
 "title": "[SSP] Black Board",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.ssp.themes.BlackBoard"
 },
 { 
 "title": "[SSP] Rain Drops",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RainDrops"
 },
 { 
 "title": "[SSP] German",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.German"
 },
 { 
 "title": "[SSP] Black Technology",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackTechnology"
 },
 { 
 "title": "[SSP] Black N Gold 3D",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackNGold3D"
 },
 { 
 "title": "[SSP] Professional Style",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ProfessionalStyle"
 },
 { 
 "title": "[SSP] Peace White",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.PeaceWhite"
 },
 { 
 "title": "[SSP] Wood Finish",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.WoodFinish"
 },
 { 
 "title": "[SSP] Black Pro",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.ssp.themes.BlackPro"
 },
 { 
 "title": "[SSP] Shiv",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.adiyogi"
 },
 { 
 "title": "[SSP] Ultra 3D",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Ultra3D"
 },
 { 
 "title": "[SSP] Elegant Black",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.ElegantBlack"
 },
 { 
 "title": "[SSP] God Shiva",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesign.themes.GodShiva"
 },
 { 
 "title": "[SSP] Aesthetic Blue",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.AestheticBlue"
 },
 { 
 "title": "[SSP] Ganesh AI",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.GaneshAI1"
 },
 { 
 "title": "[SSP] Shiva",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesign.themes.Shiva"
 },
 { 
 "title": "[SSP] Dark Red",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkRed"
 },
 { 
 "title": "[SSP] Technology Red",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.TechnologyRed"
 },
 { 
 "title": "[SSP] Elegant 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Elegant3D"
 },
 { 
 "title": "[SSP] Neon Yellow",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.YellowNeon"
 },
 { 
 "title": "[SSP] Red Wave",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedWave"
 },
 { 
 "title": "[SSP] Pure Metal",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.theme.PureMetal"
 },
 { 
 "title": "[SSP] Black Petals",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.ssp.themes.BlackPetals"
 },
 { 
 "title": "[SSP] Blue Streaks",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.BlueStreaks"
 },
 { 
 "title": "[SSP] Carbon Emerald",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.carbonemerald"
 },
 { 
 "title": "[SSP] Metal Wood",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.MetalWood"
 },
 { 
 "title": "[SSP] Professional Lines",	
-"price":"$1.50",	
+"priceString":"$1.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ProfessionalLines"
 },
 { 
 "title": "[SSP] Ceramic Black",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.CeramicBlack"
 },
 { 
 "title": "[SSP] Golden Line",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.goldenline"
 },
 { 
 "title": "[SSP] White Light 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.WhiteLight"
 },
 { 
 "title": "[SSP] Glossy Carbon",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GlossyCarbon"
 },
 { 
 "title": "[SSP] Clear White",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.ClearWhite"
 },
 { 
 "title": "[SSP] Leather Wood",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.LeatherWood"
 },
 { 
 "title": "[SSP] Red Metal",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedMetal"
 },
 { 
 "title": "[SSP] Red Leather",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.RedLeather"
 },
 { 
 "title": "[SSP] Blue Wave",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueWave"
 },
 { 
 "title": "[SSP] Three Stripes",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ThreeStripes"
 },
 { 
 "title": "[SSP] Pattern Blue",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.PatternBlue"
 },
 { 
 "title": "[SSP] Gold Inline",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.GoldInline"
 },
 { 
 "title": "[SSP] Blue Metal",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueMetal"
 },
 { 
 "title": "[SSP] Red Gradient",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.RedGradient"
 },
 { 
 "title": "[SSP] Car Lights",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.MatteBlack2"
 },
 { 
 "title": "[SSP] Halloween",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.Halloween"
 },
 { 
 "title": "[SSP] Blue Light 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlueLight3D"
 },
 { 
 "title": "[SSP] Roulette",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Roulette"
 },
 { 
 "title": "[SSP] Zodiac Aries",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Aries"
 },
 { 
 "title": "[SSP] Cubes Red",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.CubesRed"
 },
 { 
 "title": "[SSP] Zodiac Sagittarius",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Sagittarius"
 },
 { 
 "title": "[SSP] Blue Skull",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueSkull"
 },
 { 
 "title": "[SSP] Neon Green",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.NEONGreen"
 },
 { 
 "title": "[SSP] Purple Show",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.PurpleShow"
 },
 { 
 "title": "[SSP] Christmas Month",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.theme.ChristmasMonth"
 },
 { 
 "title": "[SSP] Blue Tech",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueTech"
 },
 { 
 "title": "[SSP] VIP",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.VIP"
 },
 { 
 "title": "[SSP] Bright Moon",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BrightMoon"
 },
 { 
 "title": "[SSP] Galaxy S",	
-"price":"$1.50",	
+"priceString":"$1.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GalaxyS"
 },
 { 
 "title": "[SSP] Galaxy M",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GalaxyM"
 },
 { 
 "title": "[SSP] Black Silk",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackSilk"
 },
 { 
 "title": "[SSP] DarkChrome 3D",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.DarkChrome3D"
 },
 { 
 "title": "[SSP] Black Copper",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackCopper"
 },
 { 
 "title": "[SSP] Blue Abstract",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.BlueAbstract"
 },
 { 
 "title": "[SSP] Dark Bridge",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Com.ssp.themes.DarkBridge"
 },
 { 
 "title": "[SSP] Jungle King",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.JungleKing"
 },
 { 
 "title": "[SSP] Exquisite Leather",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ExquisiteLeather"
 },
 { 
 "title": "[SSP] Faux Leather",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.FauxLeather"
 },
 { 
 "title": "[SSP] White Leather",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.WhiteLeather"
 },
 { 
 "title": "[SSP] Galaxy 3D",	
-"price":"$1.50",	
+"priceString":"$1.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Galaxy3D"
 },
 { 
 "title": "[SSP] Wolf",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.wolf"
 },
 { 
 "title": "[SSP] Autumn Fall",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.AutumnFall"
 },
 { 
 "title": "[SSP] Black Sports Car",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackSportsCar"
 },
 { 
 "title": "[SSP] Lord Vishnu",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.LordVishnu"
 },
 { 
 "title": "[SSP] Autumn Season",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.AutumnSeason"
 },
 { 
 "title": "[SSP] Radha Krishna",	
-"price":"$0.40",	
+"priceString":"$0.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.RadhaKrishna"
 },
 { 
 "title": "[SSP] Sunset",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Sunsets"
 },
 { 
 "title": "[SSP] Cubes Gold",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.CubesGold"
 },
 { 
 "title": "[SSP] Merry Christmas",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.MerryChristmas"
 },
 { 
 "title": "[SSP] Aqua",	
-"price":"$0.40",	
+"priceString":"$0.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Aqua"
 },
 { 
 "title": "[SSP] Mr Black",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.MrBlack"
 },
 { 
 "title": "[SSP] Brushed Gold",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BrushedGold"
 },
 { 
 "title": "[SSP] Crafted Red Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.CraftedRedBlack"
 },
 { 
 "title": "[SSP] Cold Winter",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.ColdWinter"
 },
 { 
 "title": "[SSP] Diffused Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DiffusedBlack"
 },
 { 
 "title": "[SSP] Black Wood",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackWood"
 },
 { 
 "title": "[SSP] Embossed Black",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.EmbosedBlack"
 },
 { 
 "title": "[SSP] Dark Light",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkLight"
 },
 { 
 "title": "[SSP] Red Skull",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedSkull"
 },
 { 
 "title": "[SSP] Halloween Pumpkin",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.HalloweenPumpkin"
 },
 { 
 "title": "[SSP] Flat Coffee",	
-"price":"$0.40",	
+"priceString":"$0.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.flatCoffee"
 },
 { 
 "title": "[SSP] Technology Orange",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:Devssp.TechnologyOrange"
 },
 { 
 "title": "[SSP] Rose",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.Rose"
 },
 { 
 "title": "[SSP] Blue Leather",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:comSSP.themes.BlueLeather"
 },
 { 
 "title": "[SSP] White Flower",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.whiteflower"
 },
 { 
 "title": "[SSP] Red Hot",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.RedHot"
 },
 { 
 "title": "[SSP] Black Wood",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackWood1"
 },
 { 
 "title": "[SSP] Premium White",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PremiumWhite"
 },
 { 
 "title": "[SSP] S26 Ultra V2",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.S26Ultrav2"
 },
 { 
 "title": "[SSP] Dark Spot 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.themes.DarkSpot"
 },
 { 
 "title": "[SSP] Crafted Black",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.CraftedBlack"
 },
 { 
 "title": "[SSP] Sepia Light",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.SepiaLight"
 },
 { 
 "title": "[SSP] Blue Cubes",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:comSSP.themes.BlueCubes"
 },
 { 
 "title": "[SSP] Xmas",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.xmas"
 },
 { 
 "title": "[SSP] Lord Ganesh",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ShreeGanesh"
 },
 { 
 "title": "[SSP] Zodiac Scorpio",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Scorpio"
 },
 { 
 "title": "[SSP] Sunset",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Sunset"
 },
 { 
 "title": "[SSP] Aqua Edge",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.AquaEdge"
 },
 { 
 "title": "[SSP] Blue Mint",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.BlueMint"
 },
 { 
 "title": "[SSP] Peace",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.Peace"
 },
 { 
 "title": "[SSP] King Rules",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.KingRules"
 },
 { 
 "title": "[SSP] Gold Gradient",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.GoldGradient"
 },
 { 
 "title": "[SSP] Black and Orange",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackandOrange"
 },
 { 
 "title": "[SSP] Blue Leaf",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlueLeaf"
 },
 { 
 "title": "[SSP] Winter Time",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.wintertime"
 },
 { 
 "title": "[SSP] Red Leaf",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RedLeaf"
 },
 { 
 "title": "[SSP] Knight",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Knight"
 },
 { 
 "title": "[SSP] Kings Crown",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.KingsCrown"
 },
 { 
 "title": "[SSP] Royal Leather",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.RoyalLeather"
 },
 { 
 "title": "[SSP] Emerald Gold",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.DevSSP.themes.EmeraldGold"
 },
 { 
 "title": "[SSP] Bubbles 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Bubble3D"
 },
 { 
 "title": "[SSP] Green Metal",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.GreenMetal"
 },
 { 
 "title": "[SSP] Clouds",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.clouds"
 },
 { 
 "title": "[SSP] Chocolate",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.Chocolate"
 },
 { 
 "title": "[SSP] Black Simplified",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.BlackSimplified"
 },
 { 
 "title": "[SSP] Elegant White",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.ElegantWhite"
 },
 { 
 "title": "[SSP] Black Car",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackCar"
 },
 { 
 "title": "[SSP] Poker",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.Poker"
 },
 { 
 "title": "[SSP] Blacked",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Blacked"
 },
 { 
 "title": "[SSP] Pearl Pink",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PearlPink"
 },
 { 
 "title": "[SSP] Beach",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Beach"
 },
 { 
 "title": "[SSP] Hexa Blue",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.HexaBlue"
 },
 { 
 "title": "[SSP] Leather Metal",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.LeatherMetal"
 },
 { 
 "title": "[SSP] White Metal",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.WhiteMetal"
 },
 { 
 "title": "[SSP] Howling Wolf",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.HowlingWolf"
 },
 { 
 "title": "[SSP] Ruby Gold",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.DevSSP.themes.RubyGold"
 },
 { 
 "title": "[SSP] Black Chrome",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.BlackChrome"
 },
 { 
 "title": "[SSP] Black Wall 3D",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlackwWall3D"
 },
 { 
 "title": "[SSP] Sapphire Gold",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.DevSSP.themes.SapphireGold"
 },
 { 
 "title": "[SSP] Cracked Leather",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.CrackedLeather"
 },
 { 
 "title": "[SSP] Metallic Gold",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.MetallicGold"
 },
 { 
 "title": "[SSP] Tech Cooler",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.TechCooler"
 },
 { 
 "title": "[SSP] Dark Gold Metal",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.DarkGoldMetal"
 },
 { 
 "title": "[SSP] Coffee Time",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.CoffeeTime"
 },
 { 
 "title": "[SSP] Fierce Lion",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.FierceLion"
 },
 { 
 "title": "[SSP] Abstract Blue",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.AbstractBlue"
 },
 { 
 "title": "[SSP] Dark Red",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.DevSSP.theme.DarkRED"
 },
 { 
 "title": "[SSP] Elegant Red",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ElegantRed"
 },
 { 
 "title": "[SSP] Retro Sun",	
-"price":"$0.50",	
+"priceString":"$0.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.RetroSun"
 },
 { 
 "title": "[SSP] Pure Gold 3D",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.PureGold3D"
 },
 { 
 "title": "[SSP] Fire Skull",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.FireSkull"
 },
 { 
 "title": "[SSP] UK Style",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.UKStyle"
 },
 { 
 "title": "[SSP] Dark Metal",	
-"price":"$0.50",	
+"priceString":"$0.50",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.DarkMetal"
 },
 { 
 "title": "[SSP] Hexa Red",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.HexaRed"
 },
 { 
 "title": "[SSP] Golden Skull",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GoldenSkull"
 },
 { 
 "title": "[SSP] Golden Feathers",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Goldenfeathers"
 },
 { 
 "title": "[SSP] Golden Hawk",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.GoldenHawk"
 },
 { 
 "title": "[SSP] Lord Shiva",	
-"price":"$0.60",	
+"priceString":"$0.60",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.LordShiva"
 },
 { 
 "title": "[SSP] Blue Denim",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlueDenim"
 },
 { 
 "title": "[SSP] Dark Clouds",	
-"price":"$0.26",	
+"priceString":"$0.26",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.Darkclouds"
 },
 { 
 "title": "[SSP] Golden Cards",	
-"price":"$0.99",	
+"priceString":"$0.99",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.GoldenCards"
 },
 { 
 "title": "[SSP] Elegant Line",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.ElegantLine"
 },
 { 
 "title": "[SSP] Silver Depth",	
-"price":"$0.90",	
+"priceString":"$0.90",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.SilverDepth"
 },
 { 
 "title": "[SSP] Technology blue",	
-"price":"$1.00",	
+"priceString":"$1.00",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.ssp.themes.TechnologyBlue"
 },
 { 
 "title": "[SSP] Blue Temperature",	
-"price":"$1.40",	
+"priceString":"$1.40",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.BlueTemperature"
 },
 { 
 "title": "[SSP] Carbon Red",	
-"price":"$0.80",	
+"priceString":"$0.80",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSP.themes.CarbonRed"
 },
 { 
 "title": "[SSP] Mystic White",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.MysticWhite"
 },
 { 
 "title": "[SSP] Dark Leaf",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.DarkLeaf"
 },
 { 
 "title": "[SSP] Piano Black",	
-"price":"$1.20",	
+"priceString":"$1.20",	
 "imageUrl": " ",
 "storeUrl":"https://apps.samsung.com/theme/ProductDetail.as?appId:com.SSPDesigns.theme.PianoBlack")
 ]
