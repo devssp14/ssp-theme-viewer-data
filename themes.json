@@ -1,11 +1,5 @@
 [
 { 
- "title" : "[SSP] Neon Blue",	
- "priceString" : "1.00",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Neon_Blue.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.NEONBlue"
-},
-{ 
  "title" : "[SSP] City View",	
  "priceString" : "Free",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_City_View.jpg",	 
