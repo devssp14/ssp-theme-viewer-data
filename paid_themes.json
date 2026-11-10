@@ -4,14 +4,14 @@
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Perfect_Black.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PerfectBlack",
- "isNew": "true"
+ "isNew": true
 },
 { 
  "title" : "[SSP] Window Light",	
  "priceString" : "$1.20",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Window_Light.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.WindowLight",
- "isNew": "true"
+ "isNew": true
 },
 { 
  "title" : "[SSP] Black Light 3D",
