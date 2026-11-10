@@ -1,5 +1,103 @@
 [
 { 
+ "title" : "[SSP] Perfect Black",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Perfect_Black.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PerfectBlack",
+ "isNew": true
+},
+{ 
+ "title" : "[SSP] Window Light",	
+ "priceString" : "$1.20",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Window_Light.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.WindowLight",
+ "isNew": true
+},
+{ 
+ "title" : "[SSP] Black Light 3D",	
+ "priceString" : "$1.20",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Light_3D.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.BlackLight3D"
+},
+{ 
+ "title" : "[SSP] Cracked Leather",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Cracked_Leather.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.CrackedLeather"
+},
+{ 
+ "title" : "[SSP] S26 Ultra V2",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_S26_Ultra_V2.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.S26Ultrav2"
+},
+{ 
+ "title" : "[SSP] Galaxy 3D",	
+ "priceString" : "$1.50",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Galaxy_3D.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Galaxy3D"
+},
+{ 
+ "title" : "[SSP] Red Wood",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Red_Wood.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWood"
+},
+{ 
+ "title" : "[SSP] Black Wood",	
+ "priceString" : "$1.00",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Wood.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackWood"
+},
+{ 
+ "title" : "[SSP] Punched Black",	
+ "priceString" : "$1.20",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Punched_Black.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PunchedBlack"
+},
+{ 
+ "title" : "[SSP] Brushed Gold",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Brushed_Gold.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BrushedGold"
+},
+{ 
+ "title" : "[SSP] S26 Ultra",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_S26_Ultra.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.S26Ultra"
+},
+{ 
+ "title" : "[SSP] White Green",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_White_Green.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.WhiteGreen"
+},
+{ 
+ "title" : "[SSP] Diffused Black",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Diffused_Black.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.DiffusedBlack"
+},
+{ 
+ "title" : "[SSP] Black Asphalt",	
+ "priceString" : "$1.20",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Asphalt.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackAsphalt"
+},
+{ 
+ "title" : "[SSP] Pure White",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Pure_White.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PureWhite"
+},
+{ 
+ "title" : "[SSP] Pure Black",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Pure_Black.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PureBlack"
+},
+{ 
  "title" : "[SSP] Neon Blue",	
  "priceString" : "$1.00",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Neon_Blue.jpg",	 
@@ -564,24 +662,6 @@
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.AutumnFall"
 },
 { 
- "title" : "[SSP] Diffused Black",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Diffused_Black.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.DiffusedBlack"
-},
-{ 
- "title" : "[SSP] Black Asphalt",	
- "priceString" : "$1.20",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Asphalt.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackAsphalt"
-},
-{ 
- "title" : "[SSP] Red Wood",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Red_Wood.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWood"
-},
-{ 
  "title" : "[SSP] Cubes Effect 3D",	
  "priceString" : "$0.60",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Cubes_Effect_3D.jpg",	 
@@ -596,7 +676,7 @@
 { 
  "title" : "[SSP] Christmas 2020",	
  "priceString" : "$1.00",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Christmas_2020.jpg",	 
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Christmas.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Christmas20"
 },
 { 
@@ -659,12 +739,7 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Aesthetic_Aqua.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.AestheticAqua"
 },
-{ 
- "title" : "[SSP] White Green",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_White_Green.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.WhiteGreen"
-},
+
 { 
  "title" : "[SSP] Black Metal",	
  "priceString" : "$1.20",	
@@ -714,18 +789,6 @@
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.RetroType"
 },
 { 
- "title" : "[SSP] Pure Black",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Pure_Black.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PureBlack"
-},
-{ 
- "title" : "[SSP] Pure White",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Pure_White.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PureWhite"
-},
-{ 
  "title" : "[SSP] France Style",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_France_Style.jpg",	 
@@ -749,12 +812,7 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Metal_Shade.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.themes.MetalShade"
 },
-{ 
- "title" : "[SSP] Punched Black",	
- "priceString" : "$1.20",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Punched_Black.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PunchedBlack"
-},
+
 { 
  "title" : "[SSP] Black N Chrome",	
  "priceString" : "$1.20",	
@@ -778,12 +836,6 @@
  "priceString" : "$1.50",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Aesthetic_Blue_(1).jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.aestheticblue"
-},
-{ 
- "title" : "[SSP] S26 Ultra",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_S26_Ultra.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.S26Ultra"
 },
 { 
  "title" : "[SSP] Blended Gold",	
@@ -922,12 +974,6 @@
  "priceString" : "$1.00",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Elegant_Blue.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.ElegantBlue"
-},
-{ 
- "title" : "[SSP] Black Light 3D",	
- "priceString" : "$1.20",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Light_3D.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.BlackLight3D"
 },
 { 
  "title" : "[SSP] White UI",	
@@ -1194,12 +1240,6 @@
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.WhiteLeather"
 },
 { 
- "title" : "[SSP] Galaxy 3D",	
- "priceString" : "$1.50",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Galaxy_3D.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Galaxy3D"
-},
-{ 
  "title" : "[SSP] Black Sports Car",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Sports_Car.jpg",	 
@@ -1253,13 +1293,6 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Mr_Black.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.MrBlack"
 },
-{ 
- "title" : "[SSP] Brushed Gold",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Brushed_Gold.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BrushedGold"
-},
-{ 
  "title" : "[SSP] Crafted Red Black",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Crafted_Red_Black.jpg",	 
@@ -1270,12 +1303,6 @@
  "priceString" : "$0.99",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Cold_Winter.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.themes.ColdWinter"
-},
-{ 
- "title" : "[SSP] Black Wood",	
- "priceString" : "$1.00",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Wood.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackWood"
 },
 { 
  "title" : "[SSP] Embossed Black",	
@@ -1337,13 +1364,6 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Premium_White.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PremiumWhite"
 },
-{ 
- "title" : "[SSP] S26 Ultra V2",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_S26_Ultra_V2.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.S26Ultrav2"
-},
-{ 
  "title" : "[SSP] Dark Spot 3D",	
  "priceString" : "$1.20",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Dark_Spot_3D.jpg",	 
@@ -1582,12 +1602,6 @@
  "priceString" : "$1.00",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Sapphire_Gold.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.DevSSP.themes.SapphireGold"
-},
-{ 
- "title" : "[SSP] Cracked Leather",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Cracked_Leather.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.CrackedLeather"
 },
 { 
  "title" : "[SSP] Metallic Gold",	
