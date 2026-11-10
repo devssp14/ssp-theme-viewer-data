@@ -1293,6 +1293,7 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Mr_Black.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.MrBlack"
 },
+ {
  "title" : "[SSP] Crafted Red Black",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Crafted_Red_Black.jpg",	 
@@ -1364,6 +1365,7 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Premium_White.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.PremiumWhite"
 },
+ {
  "title" : "[SSP] Dark Spot 3D",	
  "priceString" : "$1.20",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Dark_Spot_3D.jpg",	 
