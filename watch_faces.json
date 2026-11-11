@@ -60,18 +60,18 @@
         "priceString" : "$0.99",
         "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_gearanalog.png"
     },
-    {
-        "packageName" : "com.watchfacestudio.boldhour",
-        "title" : "Bold Hour",
-        "priceString" : "$0.99",
-        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_boldhour.png"
-    },
-    {
+ {
         "packageName" : "com.sspwatchfacestudio.dualtone",
         "title" : "Dual Tone",
         "priceString" : "$0.99",
         "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_dualtone.png"
     },
+    {
+        "packageName" : "com.watchfacestudio.boldhour",
+        "title" : "Bold Hour",
+        "priceString" : "$0.99",
+        "imageUrl" : "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/wf_boldhour.png"
+    },
     {
         "packageName" : "com.sspwatchfacestudio.shadow",
         "title" : "Shadow",
