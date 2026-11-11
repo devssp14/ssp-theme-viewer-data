@@ -45,9 +45,9 @@
 },
 { 
  "title" : "[SSP] Black Wood",	
- "priceString" : "$1.00",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Wood.jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackWood"
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Wood_(1).jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackWood1"
 },
 { 
  "title" : "[SSP] Punched Black",	
@@ -1353,11 +1353,11 @@
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Red_Hot.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.RedHot"
 },
-{ 
- "title" : "[SSP] Black Wood (1)",	
- "priceString" : "$1.40",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Wood_(1).jpg",	 
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackWood1"
+ { 
+ "title" : "[SSP] Black Wood",	
+ "priceString" : "$1.00",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Black_Wood.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.BlackWood"
 },
 { 
  "title" : "[SSP] Premium White",	
