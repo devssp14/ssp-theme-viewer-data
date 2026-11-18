@@ -1,5 +1,12 @@
 [
 { 
+ "title" : "[SSP] Red White",	
+ "priceString" : "$1.40",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/redwhite.jpg",	 
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWhite",
+ "isNew": true
+},
+{ 
  "title" : "[SSP] Perfect Black",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/[SSP]_Perfect_Black.jpg",	 
