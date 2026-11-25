@@ -1,5 +1,29 @@
 [
 { 
+ "title" : "[SSP] Diffused Black",	 
+ "priceString" : "$1.00",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Diffused_Black.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.DiffusedBlack.appiconpack"
+},
+{ 
+ "title" : "[SSP] Red Wood",	 
+ "priceString" : "$1.20",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Red_Wood.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWood.appiconpack"
+},
+{ 
+ "title" : "[SSP] Galaxy 3D",	 
+ "priceString" : "$1.00",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Galaxy_3D.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.Galaxy3D.appiconpack"
+},
+{ 
+ "title" : "[SSP] Crafted Black",	 
+ "priceString" : "$0.80",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Crafted_Black.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.CraftedBlack.appiconpack"
+},
+{ 
  "title" : "[SSP] Retro 3D Icons",	 
  "priceString" : "$0.99",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Retro_3D_Icons.jpg",	
@@ -106,13 +130,7 @@
  "priceString" : "$1.00",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Window_Light_Icons.jpg",	
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.WindowLight.appiconpack"
-},																								
-{ 
- "title" : "[SSP] Diffused Black",	 
- "priceString" : "$1.00",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Diffused_Black.jpg",	
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.DiffusedBlack.appiconpack"
-},																								
+},																																																
 { 
  "title" : "[SSP] Black Wood",	 
  "priceString" : "$1.00",	
@@ -196,13 +214,7 @@
  "priceString" : "$0.26",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Cubes_Gold_Icons.jpg",	
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.CubesGold.appiconpack"
-},																								
-{ 
- "title" : "[SSP] Red Wood",	 
- "priceString" : "$1.20",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Red_Wood.jpg",	
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWood.appiconpack"
-},																								
+},																																																
 { 
  "title" : "[SSP] White Leather",	 
  "priceString" : "$1.00",	
@@ -322,13 +334,7 @@
  "priceString" : "$0.80",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Crafted_Red_Black.jpg",	
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.CraftedRedBlack.appiconpack"
-},																								
-{ 
- "title" : "[SSP] Crafted Black",	 
- "priceString" : "$0.80",	
- "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Crafted_Black.jpg",	
- "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.CraftedBlack.appiconpack"
-},																								
+},																																																
 { 
  "title" : "[SSP] Dark Slides",	 
  "priceString" : "$0.80",	
