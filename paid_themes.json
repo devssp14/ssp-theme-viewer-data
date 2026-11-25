@@ -1,6 +1,6 @@
 [
 { 
- "title" : "Red White",	
+ "title" : "[SSP] Red White",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/redwhite.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWhite",
@@ -17,7 +17,7 @@
   ]
 },
 { 
- "title" :"Peaceful Night",	
+ "title" :"[SSP] Peaceful Night",	
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/Peacefulnight.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.theme.PeacefulNight",
