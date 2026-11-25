@@ -4,7 +4,7 @@
  "priceString" : "$1.40",	
  "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/themes/redwhite.jpg",	 
  "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.RedWhite",
- "isNew": true
+ "isNew": true,
  "screenshots": [
     "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/allthemes/[SSP]_Red_White/[SSP]_Red_White_1.jpg",
     "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/allthemes/[SSP]_Red_White/[SSP]_Red_White_2.jpg",
