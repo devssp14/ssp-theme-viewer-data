@@ -1,0 +1,68 @@
+[
+{ 
+ "title" : "[SSP] Gold Elite Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Gold_Elite_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GoldElite.appiconpack"
+},																								
+{ 
+ "title" : "[SSP] Luxury green Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Luxury_green_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.LuxuryGreen.appiconpack"
+},																								
+{ 
+ "title" : "[SSP] Black Gradient Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Black_Gradient_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GradientBlack.appiconpack"
+},																								
+{ 
+ "title" : "[SSP] Global Orange Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Global_Orange_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.GlobalOrange.appiconpack"
+},																								
+{ 
+ "title" : "[SSP] The Night Sky Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_The_Night_Sky_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.Thenightsky.appiconpack"
+},																								
+{ 
+ "title" : "[SSP] Crystal Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Crystal_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSP.themes.Crystal.appiconpack"
+},
+{ 
+ "title" : "[SSP] Flat Pink Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Flat_Pink_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.FlatPink.appiconpack"
+},
+{ 
+ "title" : "[SSP] Paper Hole",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Paper_Hole.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.SSPDesigns.themes.PaperHole.appiconpack"
+},
+{ 
+ "title" : "[SSP] Sparkle Blue",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Sparkle_Blue.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.icons.SparkleBlue.appiconpack"
+},	
+{ 
+ "title" : "[SSP] Abstract Purple Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Abstract_Purple_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.AbstractPurple.appiconpack"
+},
+{ 
+ "title" : "[SSP] Grass Land Icons",	 
+ "priceString" : "$Free",	
+ "imageUrl": "https://raw.githubusercontent.com/devssp14/ssp-theme-viewer-data/main/images/icons/ic_[SSP]_Grass_Land_Icons.jpg",	
+ "storeUrl" : "https://apps.samsung.com/theme/ProductDetail.as?appId=com.ssp.themes.GrassLand.appiconpack"
+}
+]		
